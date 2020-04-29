@@ -1,15 +1,47 @@
-# learningt to materialize
+<p align="center"><a href="https://materializecss.com/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://picsum.photos/500/500" alt="Vue logo"></a></p>
+
+<p>
+
+</p>
+
+<h2 align="center">Aprendiendo materialize</h2>
+
+Esto es un proyecto utilizado para comenzar el aprendizaje acerca de materialize.
+
+## Ecosistema
+
+| Proyecto | Versión | Descripción |
+|---------|--------|-------------|
+| [materialize]          | 1.0.0 | Materialize |
+| [firebase]                | 8.0.2 | Firebase |
+| [firebase-cli]             | 8.0.2 | Firebase CLI |
+
+[materialize]: https://materializecss.com/
+[firebase]: https://firebase.google.com/docs/hosting/quickstart?hl=es
+[firebase-cli]: https://firebase.google.com/docs/cli
 
 
 
-**Integraciones:**
+## Documentation
 
-Firebase:
-Instalación:https://firebase.google.com/docs/cli
-Para uso de su hosting: https://firebase.google.com/docs/hosting/quickstart?hl=es
-
-Materialize:
-https://materializecss.com/
+To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
 
 
-https://test-d7e37.web.app/
+
+## Registro de cambios
+
+Los cambios detallados para cada versión se documentan en las [notas de las versiones](https://github.com/Zorayda/learningTomaterialize/releases).
+
+
+
+## Contribuidores
+
+- [MoNa15](https://mona15.com)
+- Todos los que estén comenzando a aprender materialize y quieran implementar sus ideas.
+
+
+## License
+
+Próximamente por que aún no sé de ello.
+
+Copyright (Próximamente por que aún no sé de ello)
