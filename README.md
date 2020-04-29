@@ -40,7 +40,7 @@ Los cambios detallados para cada versión se documentan en las [notas de las ver
 - Todos los que estén comenzando a aprender materialize y quieran implementar sus ideas.
 
 
-## License
+## Licencia
 
 Próximamente por que aún no sé de ello.
 
