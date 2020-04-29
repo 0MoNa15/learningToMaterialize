@@ -22,12 +22,6 @@ Esto es un proyecto utilizado para comenzar el aprendizaje acerca de materialize
 
 
 
-## Documentation
-
-To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
-
-
-
 ## Registro de cambios
 
 Los cambios detallados para cada versión se documentan en las [notas de las versiones](https://github.com/Zorayda/learningTomaterialize/releases).
