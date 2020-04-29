@@ -22,6 +22,12 @@ Esto es un proyecto utilizado para comenzar el aprendizaje acerca de materialize
 
 
 
+## Documentation
+
+To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
+
+
+
 ## Registro de cambios
 
 Los cambios detallados para cada versión se documentan en las [notas de las versiones](https://github.com/Zorayda/learningTomaterialize/releases).
@@ -34,8 +40,8 @@ Los cambios detallados para cada versión se documentan en las [notas de las ver
 - Todos los que estén comenzando a aprender materialize y quieran implementar sus ideas.
 
 
-## Licencia
+## Visualización del proyecto
 
-Próximamente por que aún no sé de ello.
+- https://test-d7e37.web.app/
 
-Copyright (Próximamente por que aún no sé de ello)
+
